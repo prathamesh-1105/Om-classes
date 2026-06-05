@@ -18,6 +18,7 @@ async function buildAll() {
     entryPoints: [path.resolve(artifactDir, "src/index.ts")],
     platform: "node",
     bundle: true,
+    minify: true,
     format: "esm",
     outdir: distDir,
     outExtension: { ".js": ".mjs" },
