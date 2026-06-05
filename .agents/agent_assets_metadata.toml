@@ -1,0 +1,56 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "tc5iVH6IVdVCPXaL1ovPT"
+uri = "file://artifacts/om-computer-education/public/images/lab_1.jpg"
+type = "image"
+title = "modern computer lab with rows of computers and students learning, well-lit, professional"
+
+[[outputs]]
+id = "tnPoiIJopikrP2X3Fca2g"
+uri = "file://artifacts/om-computer-education/public/images/lab_2.jpg"
+type = "image"
+title = "modern computer lab with rows of computers and students learning, well-lit, professional"
+
+[[outputs]]
+id = "rKBP-kL3TljC6k9aJq6ra"
+uri = "file://artifacts/om-computer-education/public/images/lab_3.jpg"
+type = "image"
+title = "modern computer lab with rows of computers and students learning, well-lit, professional"
+
+[[outputs]]
+id = "3sKWhskI8hRiARu7PX9OI"
+uri = "file://artifacts/om-computer-education/public/images/lab_4.jpg"
+type = "image"
+title = "modern computer lab with rows of computers and students learning, well-lit, professional"
+
+[[outputs]]
+id = "PihioTn82M6RBOKFMQzE1"
+uri = "file://artifacts/om-computer-education/public/images/student_1.jpg"
+type = "image"
+title = "professional Indian student smiling, portrait"
+
+[[outputs]]
+id = "VNS9xrjJs3iq-wbuDrn61"
+uri = "file://artifacts/om-computer-education/public/images/student_2.jpg"
+type = "image"
+title = "professional Indian student smiling, portrait"
+
+[[outputs]]
+id = "IoGBiDvzNkT0ASYcZpIJK"
+uri = "file://artifacts/om-computer-education/public/images/student_3.jpg"
+type = "image"
+title = "professional Indian student smiling, portrait"
+
+[[outputs]]
+id = "MCbrboAgyaC6kllqyN6vn"
+uri = "file://artifacts/om-computer-education/public/images/certificate.jpg"
+type = "image"
+title = "certificate distribution ceremony for students, professional"
+
+[[outputs]]
+id = "LmGfTvPl1686BurY9YnMu"
+uri = "file://artifacts/om-computer-education/public/images/classroom.jpg"
+type = "image"
+title = "modern classroom with projector and students"

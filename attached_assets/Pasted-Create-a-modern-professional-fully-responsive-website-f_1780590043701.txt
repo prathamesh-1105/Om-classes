@@ -1,0 +1,176 @@
+Create a modern, professional, fully responsive website for **OM Computer Education, Worli, Mumbai**.
+
+IMPORTANT:
+
+* Use the official MSCIT website (https://mscit.mkcl.org/) as design inspiration only.
+* Do NOT copy content or assets from MSCIT.
+* Create a unique premium design with similar trust, education, and technology-focused aesthetics.
+* The website must look professional enough that parents and students immediately trust the institute.
+* Use smooth animations, modern UI, glassmorphism effects where appropriate, clean typography, and excellent mobile responsiveness.
+* Build using React + Tailwind CSS.
+* Optimize for deployment on Vercel.
+
+GOAL:
+Generate more student admissions and course inquiries.
+
+COLOR THEME:
+
+* Primary: Deep Blue
+* Secondary: Orange
+* Accent: White
+* Modern educational institute appearance
+* Professional and trustworthy
+
+PAGES & SECTIONS:
+
+1. HOME PAGE
+
+* Hero section with attractive headline:
+  "Build Your Career with Industry-Relevant Computer Skills"
+* Call-to-action buttons:
+
+  * Enroll Now
+  * Free Demo Session
+  * WhatsApp Inquiry
+* Hero illustration related to computers, coding, digital skills, and learning
+* Animated statistics section:
+
+  * Students Trained
+  * Courses Offered
+  * Years of Experience
+  * Placement Assistance
+* Why Choose Us section
+* Featured Courses section
+* Testimonials section
+* Contact CTA banner
+
+2. ABOUT US
+
+* Institute introduction
+* Mission and vision
+* Experienced faculty section
+* Modern computer lab section
+* Student-focused learning approach
+
+3. COURSES PAGE
+
+Display courses as premium cards with icons, descriptions, duration, and inquiry buttons.
+
+Include:
+
+MSCIT
+Advanced Excel
+Tally
+Python Programming
+Web Development
+HTML
+CSS
+JavaScript
+C Programming
+C++
+MS Office
+Computer Basics
+Internet Skills
+Resume Building
+Interview Preparation
+Digital Skills Training
+
+Allow easy addition of future courses.
+
+4. MSCIT SPECIAL PAGE
+
+Dedicated page explaining:
+
+* What MSCIT is
+* Benefits
+* Eligibility
+* Certification
+* Career Opportunities
+* Admission Inquiry Form
+
+5. GALLERY PAGE
+
+* Institute photos
+* Classroom images
+* Events
+* Certificates
+* Student achievements
+
+Use attractive masonry layout.
+
+6. TESTIMONIALS PAGE
+
+* Student success stories
+* Ratings
+* Review cards
+* Animated carousel
+
+7. CONTACT PAGE
+
+Include:
+
+* Google Maps Embed
+* Address
+* Phone Number
+* Email
+* WhatsApp Button
+* Inquiry Form
+
+8. ADMISSION INQUIRY FORM
+
+Collect:
+
+* Name
+* Phone
+* Email
+* Course Interested In
+* Message
+
+Store submissions locally and make future backend integration easy.
+
+9. WHATSAPP INTEGRATION
+
+Floating WhatsApp button visible on every page.
+
+10. SEO OPTIMIZATION
+
+Add:
+
+* Meta tags
+* Open Graph tags
+* Local business schema
+* Structured data
+* Proper page titles
+
+11. EXTRA PREMIUM FEATURES
+
+* Dark mode toggle
+* Smooth scrolling
+* Animated counters
+* Scroll reveal animations
+* FAQ section
+* Career guidance section
+* Download brochure button
+* Student achievements section
+* Course comparison section
+* Responsive navigation menu
+* Loading animation
+
+12. PERFORMANCE
+
+* Lighthouse score above 90
+* Fast loading
+* Mobile-first design
+* Fully responsive
+
+13. DEPLOYMENT
+
+Prepare project structure for Vercel deployment.
+
+14. CONTENT
+
+Use professional placeholder content that can easily be edited later.
+
+15. FINAL REQUIREMENT
+
+The website should feel like a premium educational institute website worth ₹15,000+, modern, trustworthy, conversion-focused, and capable of increasing student admissions significantly.
