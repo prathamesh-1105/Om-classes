@@ -20,7 +20,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "artifacts/om-computer-education/dist/public/$1"
+      "dest": "/$1"
     }
   ]
 }
